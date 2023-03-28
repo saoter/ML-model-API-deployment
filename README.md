@@ -10,7 +10,7 @@
 
 ### 2. Create requirements.txt
 
-run command 'pip freeze > requirements.txt' in terminal and upload it!
+- run command 'pip freeze > requirements.txt' in terminal and upload it!
 
 
 ### 3. Create Procfile 
