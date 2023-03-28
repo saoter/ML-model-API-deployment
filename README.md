@@ -8,7 +8,9 @@
 
 
 
-### 2. Create requirements.txt with command in terminal: 'pip freeze > requirements.txt' and upload it!
+### 2. Create requirements.txt
+
+run command 'pip freeze > requirements.txt' in terminal and upload it!
 
 
 ### 3. 
