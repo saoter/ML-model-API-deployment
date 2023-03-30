@@ -1,10 +1,10 @@
 # ML-model-API-deployment
 
-
+This instructions are for deploying FastAPI server on Huroku. However, this one is too large for free account. 
 
 ## Steps:
 
-### 1. Upload model and python file with FastAPI app
+### 1. Upload model and python file with FastAPI app to repo
 
 
 
