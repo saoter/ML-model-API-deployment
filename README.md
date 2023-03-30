@@ -1,6 +1,6 @@
 # ML-model-API-deployment
 
-This instructions are for deploying FastAPI server on Huroku. However, this one is too large for free account. 
+This instructions are for deploying FastAPI server on Heroku. However, this one is too large for free account. 
 
 ## Steps:
 
